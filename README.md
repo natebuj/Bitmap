@@ -1,2 +1,2 @@
-# Bitmap-fun
+# Bitmap
 C++ practice (just for fun)
