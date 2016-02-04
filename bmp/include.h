@@ -1,0 +1,9 @@
+#include <iostream>
+#include <fstream>
+#include <vector>
+#include <cstdio>
+#include <cstdlib>
+#include <ctime>
+#include <cmath>
+#include "camera.h"
+#include "processor.h"
